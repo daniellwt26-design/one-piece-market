@@ -1,0 +1,7 @@
+{
+  "sources": [
+    {"id":"snkrdunk","name":"SNKRDUNK","url":"https://snkrdunk.com/articles/32773/","type":"market_article"},
+    {"id":"cardrush","name":"Card Rush","url":"https://cardrush.media/onepiece/buying_prices","type":"buylist"},
+    {"id":"yuyutei","name":"遊々亭","url":"https://yuyu-tei.jp/buy/opc/s/special/1/","type":"buylist"}
+  ]
+}
